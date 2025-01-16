@@ -8,7 +8,7 @@ This tutorial demonstrates Making Actual Ticket Lifecycle Examples and Observing
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Not yet been made!](https://www.youtube.com/@MarkwheelReach)
+- ### [YouTube: Ticket Lifecycle](https://www.youtube.com/playlist?list=PLRwChl0ROcE7yfqEbbmVsT3gcU5yXW7VP)
 
 <h2>Environments and Technologies Used</h2>
 
